@@ -1,9 +1,9 @@
 {
-  "name": "slate-react",
-  "description": "A set of React components for building completely customizable rich-text editors.",
+  "name": "@doist/slate-react",
+  "description": "Patched version of slate-react",
   "version": "0.21.24",
   "license": "MIT",
-  "repository": "git://github.com/ianstormtaylor/slate.git",
+  "repository": "https://github.com/Doist/slate.git",
   "main": "lib/slate-react.js",
   "module": "lib/slate-react.es.js",
   "umd": "dist/slate-react.js",
